@@ -1,0 +1,16 @@
+[
+{
+  "modid": "gentech",
+  "name": "GenTech",
+  "description": "GenTech Industries are the leading specialist in creating technology for your everyday needs.",
+  "version": "${version}",
+  "mcversion": "${mcversion}",
+  "url": "",
+  "updateUrl": "",
+  "authorList": ["GenDeathrow","Darkosto"],
+  "credits": "To all of you who have supported me, Thank you. Darkosto for using this mod in his AfterMath Modpack.",
+  "logoFile": "",
+  "screenshots": [],
+  "dependencies": ["CoFHCore","CoFHLib","SoloarCraft"]
+}
+]
